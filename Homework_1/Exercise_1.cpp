@@ -1,16 +1,3 @@
-/**
-*
-* Solution to homework assignment 1
-* Introduction to programming course
-* Faculty of Mathematics and Informatics of Sofia University
-* Winter semester 2021/2022
-*
-* @author Stoyan Zlatev
-* @idnumber 4MI0600043
-* @task 1
-* @compiler VC
-*
-*/
 #include <iostream>
 
 using namespace std;
@@ -53,4 +40,3 @@ int main()
 		cout << endl;
 	}
 }
-
