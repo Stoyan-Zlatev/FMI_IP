@@ -1,3 +1,2 @@
-# FMI
-##Introduction to programming.
-##My homeworks and exams during the course.
+# FMI Introduction to programming.
+My homeworks and exams during the course.
