@@ -1,3 +1,3 @@
 # FMI
-Introduction to programming
+Introduction to programming.
 My homeworks and exams during the course.
